@@ -1,4 +1,4 @@
-# Bubble Sort
+<!--# Bubble Sort
 ## 🔎 Overview
 
 **Bubble Sort** is one of the simplest sorting algorithms. It repeatedly steps through the list, compares elements, and swap them if they are in the wrong order
@@ -234,4 +234,4 @@ Use Bubble Sort when:
 ## 🏁 Summary
 
 Bubble Sort is a beginner-friendly sorting algorithm that demonstrates how comparisons and swaps work.
-While inefficient for large datasets, it remains useful for education and small-scale applications.
+While inefficient for large datasets, it remains useful for education and small-scale applications. -->
